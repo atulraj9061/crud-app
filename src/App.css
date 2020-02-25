@@ -1,0 +1,90 @@
+
+
+
+.App{
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+
+.button{
+  background-color: #f44336; /* Red */ 
+  border: none;
+  color: white;
+  padding: 9px 78px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-left: 70px;
+
+}
+
+
+.editbutton{
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 5px 18px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-left: 70px;
+}
+
+
+.deletebutton{
+
+  background-color: #f44336; /* Red */ 
+  border: none;
+  color: white;
+  padding: 5px 18px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-left: 70px;
+}
+
+.datatable{
+ margin-left: 10px;
+  margin-top:150px;
+}
+
+.addbutton{
+  border: none;
+  color: white;
+  padding: 8px 18px !important;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px !important;
+  margin: 20px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  width:280px ;
+}
+
+.updatebtn{
+   border: none;
+  color: white;
+  padding: 8px 18px !important;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px !important;
+  margin: 20px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  width:280px ;
+}
